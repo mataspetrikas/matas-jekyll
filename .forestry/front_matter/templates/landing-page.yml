@@ -9,5 +9,13 @@ fields:
       type: datafiles
   label: selectyyy
   description: ewrwerw werrewrew
+- type: textarea
+  name: seo_texy
+  label: seo texy
+  description: describe the SEO text here
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - new-land.html
