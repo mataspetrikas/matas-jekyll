@@ -1,8 +1,10 @@
 ---
 hide_body: false
-fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: post
+is_partial: false
+fields: []
+pages:
+- _posts/_posts/example-draft.md
+- _posts/2017-09-25-introduction.md
+- _posts/2017-02-12-modern.md
+- _posts/2017-08-22-research.md
+- _posts/2017-08-01-welcome.md
