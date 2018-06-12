@@ -14,5 +14,7 @@ fields:
   name: block_label
   label: block label
   description: kind blocks
+  template_types:
+  - feature
 pages:
 - new-land.html
