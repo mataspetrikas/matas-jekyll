@@ -1,4 +1,8 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: boolean
+  name: seo_toggle
+  label: SEO toggle
+  description: this enables or disables the seo text ion the page
