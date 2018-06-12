@@ -1,4 +1,11 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: select
+  name: selectz
+  config:
+    source:
+      type: datafiles
+  label: selectyyy
+  description: ewrwerw werrewrew
