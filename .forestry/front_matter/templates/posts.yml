@@ -1,7 +1,15 @@
 ---
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: color
+  config:
+    color_format: Hex
+    required: true
+  default: "#793535"
+  label: colorizer
+  name: colorizer
+  description: qw343343d3 fe3 fefrf3
 pages:
 - _posts/_posts/example-draft.md
 - _posts/2017-09-25-introduction.md
