@@ -7,3 +7,6 @@ fields:
   label: headline
   config:
     required: true
+- type: text
+  name: subheadline
+  label: subheadline
