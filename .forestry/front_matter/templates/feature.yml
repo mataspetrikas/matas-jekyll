@@ -10,3 +10,9 @@ fields:
 - type: text
   name: subheadline
   label: subheadline
+- type: file
+  name: image
+  label: image
+  description: add img
+  config:
+    maxSize: '1'
